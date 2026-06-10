@@ -1,1 +1,1 @@
-# demo-d-paris-a-nueva-york-peluqueria
+# demo-peluqueria
